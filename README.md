@@ -16,4 +16,5 @@ This project leverages Excel to analyze coffee sales data and create a comprehen
 # Project Outcome:
 The Coffee Sales Dashboard provides valuable insights into sales performance and enables stakeholders to make data-driven decisions to improve business outcomes.
 
+### Dashboard glimpse:
 ![Screenshot 2024-06-02 054517](https://github.com/Ashinsarkarlahiri/Coffee-Sales-Analytics-Project/blob/main/Screenshot%202024-12-27%20170053.png)
